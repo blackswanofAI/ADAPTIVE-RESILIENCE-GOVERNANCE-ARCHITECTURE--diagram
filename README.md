@@ -149,3 +149,5 @@ No reproduction, adaptation, or implementation is permitted without explicit aut
 This publication serves as a **public timestamped disclosure of authorship and architecture**.
 
 It is not a full technical release and does not grant rights to replicate or implement the system.
+additonal 10 layers added for 20 layers total
+All Rights Reserved Author Kyle Harrison Platinum Castles Inc
